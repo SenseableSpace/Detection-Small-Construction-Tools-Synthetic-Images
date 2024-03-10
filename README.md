@@ -37,3 +37,6 @@ Figure 4. Inference results - confidence scores of small-sized tools, ‘Tacker'
 | ------------------------ | --------------------------------------------------                                    |
 | `ScreenshotCapture.cs`   | This code has been used to automatically generate a group of synthetic images by capturing the screen while incrementally changing the viewing angles of a 3D object's x and y axes from 0° to 360° by 15° increments. |
 | `YOLOv8_open.ipynb`      | This code has been used to develop the proposed vision-based classifiers (i.e., 'Real-4000,' 'Hybrid-4000,' and 'Hybrid-8000') for the automated recognition of small-sized construction tools. |
+
+### Data Availability Statements
+Some or all data or code that support the findings of this study are available from the corresponding author upon reasonable request.
