@@ -13,7 +13,27 @@ Previous studies on vision-based classifiers often overlooked the need for detec
 ### Keywords
 Small-sized construction tools; Object detection and classification; Synthetic images; Practical applicability; Construction site
 
-### Framework and Data
+### Framework and Dataset
 Figure 1. Research framework
 
 ![Figure1](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/12262482-c487-496e-970d-bd673ee9dbe2)
+
+
+Figure 2. Representative examples of training and test dataset
+
+![Figure2](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/c47012f3-c52a-4ef2-b9fc-9484db13828a)
+
+### Results
+Figure 3. Inference results - confidence scores of small-sized tools, ‘Hammer’
+
+![Figure3](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/4621b66d-aa52-486d-a781-8fca9f5ef7b3)
+
+Figure 4. Inference results - confidence scores of small-sized tools, ‘Tacker'
+
+![Figure4](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/24685b01-dfef-4701-84bf-000ed1bee39d)
+
+### Code Definition
+| Category                 | Description                                                                           |
+| ------------------------ | --------------------------------------------------                                    |
+| `ScreenshotCapture.cs`   | This code has been used to automatically generate a group of synthetic images by capturing the screen while incrementally changing the viewing angles of a 3D object's x and y axes from 0° to 360° by 15° increments. |
+| `YOLOv8_open.ipynb`      | This code has been used to develop the proposed vision-based classifiers (i.e., 'Real-4000,' 'Hybrid-4000,' and 'Hybrid-8000') for the automated recognition of small-sized construction tools. |
