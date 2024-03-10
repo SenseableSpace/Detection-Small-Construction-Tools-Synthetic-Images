@@ -17,8 +17,7 @@ Small-sized construction tools; Object detection and classification; Synthetic i
 Figure 1. Research framework
 
 ![Figure1](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/12262482-c487-496e-970d-bd673ee9dbe2)
-
-
+<br><br>
 Figure 2. Representative examples of training and test dataset
 
 ![Figure2](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/c47012f3-c52a-4ef2-b9fc-9484db13828a)
