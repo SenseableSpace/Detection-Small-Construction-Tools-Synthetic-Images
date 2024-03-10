@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['bucket', 'extension cord reel', 'hammer', 'tacker']
+
+roboflow:
+  workspace: incheon-national-university-i0ulw
+  project: real-dwk1l
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/incheon-national-university-i0ulw/real-dwk1l/dataset/4
