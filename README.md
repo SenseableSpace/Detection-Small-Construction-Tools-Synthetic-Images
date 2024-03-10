@@ -14,3 +14,5 @@ Previous studies on vision-based classifiers often overlooked the need for detec
 Small-sized construction tools; Object detection and classification; Synthetic images; Practical applicability; Construction site
 
 ### Framework and Data
+Figure 1. Research framework
+![Figure1](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/12262482-c487-496e-970d-bd673ee9dbe2)
