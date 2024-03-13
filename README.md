@@ -1,10 +1,10 @@
 ### Official Python Implementation
-This work was conducted by Soeun Han, Wonjun Park, Kyumin Jeong, Taehoon Hong, and Choongwan Koo (Corresponding Author) | Paper
+This work was conducted by Soeun Han, Wonjun Park, Kyumin Jeong, Taehoon Hong, and `Choongwan Koo (Corresponding Author)` | Paper
 
 Affiliation: Construction Engineering & Management Lab, Incheon National University.
 
 ### Cite This:
-Han, S., Park, W., Jeong, K., Hong, T., and Koo, C. (2024). “Utilizing synthetic images to enhance the automated recognition of small-sized construction tools”, Automation in Construction (under review). <br><br>
+Han, S., Park, W., Jeong, K., Hong, T., and `Koo, C.` (2024). “Utilizing synthetic images to enhance the automated recognition of small-sized construction tools”, Automation in Construction (under review). <br><br>
 
 # Utilizing synthetic images to enhance the automated recognition of small-sized construction tools
 
