@@ -1,5 +1,5 @@
 ### Official Python Implementation
-This work was conducted by Soeun Han, Wonjun Park, Kyumin Jeong, Taehoon Hong, and Choongwan Koo (Corrensponding Author) | Paper
+This work was conducted by Soeun Han, Wonjun Park, Kyumin Jeong, Taehoon Hong, and Choongwan Koo (Corresponding Author) | Paper
 
 Affiliation: Construction Engineering & Management Lab, Incheon National University.
 
