@@ -14,23 +14,23 @@ Previous studies on vision-based classifiers often overlooked the need for detec
 ### Keywords
 Small-sized construction tools; Object detection and classification; Synthetic images; Practical applicability; Construction site <br><br>
 
-### Framework and Dataset
+### Research Framework and Dataset
 **Figure 1.** Research framework
 
-![Figure1](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/12262482-c487-496e-970d-bd673ee9dbe2) <br><br>
+![Figure1](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/1afa48da-a6dc-4c52-9caf-e3ff537d737f) <br><br>
 
 **Figure 2.** Representative examples of training and test dataset
 
-![Figure2](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/c47012f3-c52a-4ef2-b9fc-9484db13828a) <br><br>
+![Figure2](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/d6a0af99-7ed6-4626-a7d7-f579fc7ee43c) <br><br>
 
 ### Results
 **Figure 3.** Inference results - confidence scores of small-sized tools, ‘Hammer’
 
-![Figure3](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/4621b66d-aa52-486d-a781-8fca9f5ef7b3) <br><br>
+![Figure3](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/2dec8ec7-8313-426b-a5fa-d25c10064707) <br><br>
 
 **Figure 4.** Inference results - confidence scores of small-sized tools, ‘Tacker'
 
-![Figure4](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/24685b01-dfef-4701-84bf-000ed1bee39d) <br><br>
+![Figure4](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/58cb1a71-fad5-4ebe-9864-ff97a80a5f4d) <br><br>
 
 ### Code Definition
 | Category                 | Description                                                                           |
