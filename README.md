@@ -1,10 +1,10 @@
 ### Official Python Implementation
-This work was conducted by Soeun Han, Wonjun Park, Kyumin Jeong, Taehoon Hong, and `Choongwan Koo (Corresponding Author)` | Paper
+This work was conducted by Soeun Han, Wonjun Park, Kyumin Jeong, Taehoon Hong, and `Choongwan Koo (Corresponding Author)` | [Paper](https://doi.org/10.1016/j.autcon.2024.105415)
 
 Affiliation: Construction Engineering & Management Lab, Incheon National University.
 
 ### Cite This:
-Han, S., Park, W., Jeong, K., Hong, T., and `Koo, C.` (2024). “Utilizing synthetic images to enhance the automated recognition of small-sized construction tools”, Automation in Construction. <br><br>
+Han, S., Park, W., Jeong, K., Hong, T., and `Koo, C.` (2024). “Utilizing synthetic images to enhance the automated recognition of small-sized construction tools”, Automation in Construction, 163, 105415, https://doi.org/10.1016/j.autcon.2024.105415. <br><br>
 
 # Utilizing synthetic images to enhance the automated recognition of small-sized construction tools
 
@@ -42,13 +42,9 @@ Small-sized construction tools; Object detection and classification; Synthetic i
 Some or all of the data or code that support the findings of this study are available from the corresponding author upon reasonable request. <br><br>
 
 ### Download link
-| Category                                | Total    | Link                                                                                 | Release Date |
-| --------------------------------------- | -------- |  ----------------------------------------------------------------------------------  | ------------ |
-| `Training dataset-[Real-4000]-images`   | 4,000    | https://drive.google.com/file/d/1oR4iLT82qBX_xiZD8yXkVHOjpNZ51gQr/view?usp=sharing   | 11 Mar 2024  |
-| `Training dataset-[Real-4000]-labels`   | 4,000    | https://drive.google.com/file/d/1Z-TaXi1k6Mr5hyfd8eiyuY52kZWPkHOS/view?usp=sharing   | 11 Mar 2024  |
-| `Training dataset-[Hybrid-4000]-images` | 4,000    | https://drive.google.com/file/d/1hwVtejkUj0JpTiv-q2jjtW3ZzgIdFl-L/view?usp=sharing   | 11 Mar 2024  |
-| `Training dataset-[Hybrid-4000]-labels` | 4,000    | https://drive.google.com/file/d/1hwVtejkUj0JpTiv-q2jjtW3ZzgIdFl-L/view?usp=sharing   | 11 Mar 2024  |
-| `Training dataset-[Hybrid-8000]-images` | 8,000    | https://drive.google.com/file/d/1hwVtejkUj0JpTiv-q2jjtW3ZzgIdFl-L/view?usp=sharing   | 11 Mar 2024  |
-| `Training dataset-[Hybrid-8000]-labels` | 8,000    | https://drive.google.com/file/d/10Wl94qQ8DciSnBAyVLlLu1ZQdqOi4wCq/view?usp=sharing   | 11 Mar 2024  |
-| `Test dataset-images`                   | 576      | https://drive.google.com/file/d/1y5yLGsyNBXmoyT1IUd4-qJqo6mXeTAoj/view?usp=sharing   | 11 Mar 2024  |
-| `Test dataset-labels`                   | 576      | https://drive.google.com/file/d/1gPlacSloHKc422tVJdQgEpHhs5W7iT8k/view?usp=sharing   | 11 Mar 2024  |
+| Category                                                 | Total    | Link                                                                                 | Release Date |
+| -------------------------------------------------------- | -------- |  ----------------------------------------------------------------------------------  | ------------ |
+| `[2024-07-AUTCON]_Training dataset(synthetic)-images`    | 4,000    | https://drive.google.com/file/d/1U8sfR3kgLP8RCHV7g7xt5ryhSCtg-IDC/view?usp=sharing   | 13 Apr 2024  |
+| `[2024-07-AUTCON]_Training dataset(synthetic)-labels`    | 4,000    | https://drive.google.com/file/d/1ochS95h0Vtl12TlLRJ325B__lZ1Fq4HY/view?usp=sharing   | 13 Apr 2024  |
+| `[2024-07-AUTCON]_Test dataset-images`                   | 576      | https://drive.google.com/file/d/1UvEtkHdngPOi-EZBd7RsBvKBJ9m3F0PD/view?usp=sharing   | 13 Apr 2024  |
+| `[2024-07-AUTCON]_Test dataset-labels`                   | 576      | https://drive.google.com/file/d/1ZPdcgjDNNHVWH-jBEStJ04v_09jNMAKi/view?usp=sharing   | 13 Apr 2024  |
