@@ -4,7 +4,7 @@ This work was conducted by Soeun Han, Wonjun Park, Kyumin Jeong, Taehoon Hong, a
 Affiliation: Construction Engineering & Management Lab, Incheon National University.
 
 ### Cite This:
-Han, S., Park, W., Jeong, K., Hong, T., and `Koo, C.` (2024). “Utilizing synthetic images to enhance the automated recognition of small-sized construction tools”, Automation in Construction, 163, 105415, https://doi.org/10.1016/j.autcon.2024.105415. <br><br>
+Han, S., Park, W., Jeong, K., Hong, T., and `Koo, C.` (2024/07). “Utilizing synthetic images to enhance the automated recognition of small-sized construction tools”, Automation in Construction, 163, 105415, https://doi.org/10.1016/j.autcon.2024.105415. <br><br>
 
 # Utilizing synthetic images to enhance the automated recognition of small-sized construction tools
 
