@@ -39,7 +39,7 @@ Small-sized construction tools; Object detection and classification; Synthetic i
 | `YOLOv8_open.ipynb`      | This code has been used to develop the proposed vision-based classifiers (i.e., 'Real-4000,' 'Hybrid-4000,' and 'Hybrid-8000') for the automated recognition of small-sized construction tools. |
 
 ### Data Availability Statements
-Some or all of the data or code that support the findings of this study are available from the corresponding author upon reasonable request. [Request Form](https://drive.google.com/file/d/1WYLRQ2DvYPdPvovZbYjPe1L2fBquKk7I/view?usp=sharing) <br><br>
+Some or all of the data or code that support the findings of this study are available from the corresponding author upon reasonable request. [Request Form](https://drive.google.com/file/d/1WYLRQ2DvYPdPvovZbYjPe1L2fBquKk7I/view?usp=sharing) (Please fill out the request form and send it to the the corresponding author's email: senseablespace@gmail.com) <br><br>
 
 ### Download link
 | Category                                                 | Total    | Link                                                                                 | Release Date |
